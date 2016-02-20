@@ -16,3 +16,13 @@ Usage (example):
     
 
 on Windows use `vatcheck.exe`
+
+# Disclaimer
+This program is not endorsed by the VIES service. Please
+see the VIES disclaimer and FAQ on the VIES homepage
+http://ec.europa.eu/taxation_customs/vies/viesdisc.do
+before using it and comply with the terms of usage outlined there.
+
+This program is put here as-is. If it stops working: not really my problem.
+
+And always pay your taxes!
