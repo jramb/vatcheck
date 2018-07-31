@@ -4,7 +4,13 @@ Check VAT number against VIES: http://ec.europa.eu/taxation_customs/vies/
 
 The Program is written in Go, I tested it on Linux and Windows
 
-Usage (example):
+## Installation
+
+    go install github.com/jramb/vatcheck
+    
+or you can clone or download this repository and do `go install` or `go build`.
+
+## Usage (example):
     
     ./vatcheck SE556950473001
     Result: SE556950473001 = true
@@ -17,7 +23,7 @@ Usage (example):
 
 on Windows use `vatcheck.exe`
 
-# Disclaimer
+## Disclaimer
 This program is not endorsed by the VIES service. Please
 see the VIES disclaimer and FAQ on the VIES homepage
 http://ec.europa.eu/taxation_customs/vies/viesdisc.do
