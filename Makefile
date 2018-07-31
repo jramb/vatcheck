@@ -6,3 +6,5 @@ win:
 linux:
 	go build
 
+allall:
+	gox
